@@ -2,7 +2,8 @@ Chapter 1
 	Example.java
 	Example2.java
 	Example3.java
-	GalToLit.java
+	GalToLit.java (Упражнение 1.1)
 	IfDemo.java
 	ForDemo.java
 	BlockDemo.java
+	GalToLitTable.java (Упражнение 1.2)
