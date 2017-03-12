@@ -9,7 +9,11 @@
 	GalToLitTable.java (Упражнение 1.2)
 Глава 2
 	Inches.java
-
+	Hypot.java
+	CharArithDemo.java
+	BoolDemo.java
+	Sound.java
+	Echo.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
