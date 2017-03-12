@@ -1,4 +1,4 @@
-Chapter 1
+Глава 1
 	Example.java
 	Example2.java
 	Example3.java
@@ -7,8 +7,14 @@ Chapter 1
 	ForDemo.java
 	BlockDemo.java
 	GalToLitTable.java (Упражнение 1.2)
+Глава 2
+	Inches.java
+
 Таблицы
-	Таблица 1.1.txt
+	Глава 1
+		Таблица 1.1.txt
+	Глава 2
+		Таблица 2.1.txt
 Вопросы и ответы
 	Глава 1
 		Moon.java
