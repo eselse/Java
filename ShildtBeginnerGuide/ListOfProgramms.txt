@@ -9,3 +9,7 @@ Chapter 1
 	GalToLitTable.java (Упражнение 1.2)
 Таблицы
 	Таблица 1.1.txt
+Вопросы и ответы
+	Глава 1
+		Moon.java
+		InchToMeterTable.java
