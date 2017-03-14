@@ -3,8 +3,9 @@
 class LogicalOpTable {
 	public static void main(String args[]) {
 		boolean p, q;
+		byte b = 0;
 
-		System.out.println("    ßТаблица истинности для логических операций");
+		System.out.println("    Таблица истинности для логических операций");
 
 		System.out.println("-------------------------------------------------");
 		System.out.println("| P\t| Q\t| AND\t| OR\t| XOR\t| NOT\t|");
@@ -29,7 +30,7 @@ class LogicalOpTable {
 		System.out.print("| " + p + "\t| " + q + "\t| ");
 		System.out.print((p & q) + "\t| " + (p | q) + "\t| ");
 		System.out.println((p ^ q) + "\t| " + (!p) + "\t|");
-
+		
 		System.out.println("-------------------------------------------------");
 	}
 }
