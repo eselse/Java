@@ -24,6 +24,7 @@
 	SideEffects.java
 	LtoD.java
 	CastDemo.java
+	LogicalOpTable.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
