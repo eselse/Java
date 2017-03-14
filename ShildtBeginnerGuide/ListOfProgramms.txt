@@ -25,6 +25,9 @@
 	LtoD.java
 	CastDemo.java
 	LogicalOpTable.java
+	LogicalOpTableNum.java
+	PromDemo.java
+	UseCast.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
@@ -35,3 +38,5 @@
 	Глава 1
 		Moon.java
 		InchToMeterTable.java
+	Глава 2
+		Prime.java
