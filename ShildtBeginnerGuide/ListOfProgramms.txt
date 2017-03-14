@@ -14,6 +14,16 @@
 	BoolDemo.java
 	Sound.java
 	Echo.java
+	StrDemo.java
+	Cal.java
+	DynInit.java
+	ScopeDemo.java
+	VarInitDemo.java
+	ModDemo.java
+	SCops.java
+	SideEffects.java
+	LtoD.java
+	CastDemo.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
