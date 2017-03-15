@@ -28,6 +28,7 @@
 	LogicalOpTableNum.java
 	PromDemo.java
 	UseCast.java
+	Dividers.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
