@@ -31,6 +31,8 @@
 	Dividers.java
 Глава 3
 	KbIn.java
+	Guess.java
+	Guess2.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt

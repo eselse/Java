@@ -4,11 +4,11 @@ class Guess {
 		throws java.io.IOException {
 			char ch, answer = 'S';
 
-				System.out.println("Задумана буква из диапазона A-Z.");
-				System.out.print("Попытайтесь её угадать: ");
+			System.out.println("Задумана буква из диапазона A-Z.");
+			System.out.print("Попытайтесь её угадать: ");
 
-				ch = (char) System.in.read(); // получить символ с клавиатуры
+			ch = (char) System.in.read(); // получить символ с клавиатуры
 
-				if(ch == answer) System.out.println("** Правильно! **");
+			if(ch == answer) System.out.println("** Правильно! **");
 		}
 }
