@@ -1,22 +1,21 @@
 // Вывод всех делителей чисел от 1 до 100
 class Dividers {
 	public static void main(String args[]) {
-		int i, j, cnt;
-		boolean b;
+		int i, j;
+		boolean b, c;
 
 		for(i = 1; i <= 100; i++) {
 			System.out.print(i);
-			b = true;
-			cnt = 1;
+			b = c = true;
 			for(j = 2; j <= i / 2; j++){
 				if((i % j) == 0 & b) {
 					System.out.print(" - ");
 					b = false;
 				}
 				if((i % j) == 0) {
-					if(cnt == 1) {
+					if(c) {
 						System.out.print(j);
-						cnt++;
+						c = false;
 					} else {
 						System.out.print(", " + j);
 					}
