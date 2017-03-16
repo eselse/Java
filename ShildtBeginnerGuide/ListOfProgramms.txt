@@ -33,6 +33,11 @@
 	KbIn.java
 	Guess.java
 	Guess2.java
+	Guess3.java
+	Ladder.java
+	SwitchDemo.java
+	NoBreak.java
+	Help.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
