@@ -38,6 +38,16 @@
 	SwitchDemo.java
 	NoBreak.java
 	Help.java
+	SqrRoot.java
+	DecrFor.java
+	Comma.java
+	ForTest.java
+	Empty.java
+	Empty2.java
+	Empty3.java
+	ForVar.java
+	WhileDemo.java
+	
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
