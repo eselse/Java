@@ -1,3 +1,4 @@
+// Простой вывод календаря в стиле UNIX
 class Cal{
 	public static void main(String args[]) {
 		System.out.println("     March 2017     ");

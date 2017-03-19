@@ -1,4 +1,4 @@
-// Упражнение 2.2
+// Упражнение 2.3
 // Отображение таблицы истинности для логических операций
 class LogicalOpTableNum {
 	public static void main(String args[]) {

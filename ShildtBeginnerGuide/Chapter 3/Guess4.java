@@ -8,19 +8,20 @@ class Guess4 {
 				System.out.println("Задумана буква в диапазоне A-Z.");
 				System.out.print("Попытайтесь её угадать: ");
 
-				// Получить символ с клавиатуры
+				// получить символ с клавиатуры
 				ch = (char) System.in.read();
 				// Отбросить все остальные символы во входном буфере
-				do {
+				do{
 					ignore = (char) System.in.read();
-				} while (ignore != '\n');
+				} while(ignore != '\n');
+
 				if(ch == answer) System.out.println("** Правильно! **");
-				else {
-					System.out.print("...Извините, нужная буква находится ");
+				else{
+					System.out.print("...Извините нужная буква находится ");
 					if(ch < answer) System.out.println("ближе к концу алфавита");
 					else System.out.println("ближе к началу алфавита");
-					System.out.println("Повторите попытку!\n");
-				} 
-			} while (answer != ch);
+					System.out.println("Попробуйте ещё раз!\n");
+				}
+			} while(answer != ch);
 		}
 }

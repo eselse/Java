@@ -12,7 +12,7 @@
 	Hypot.java
 	CharArithDemo.java
 	BoolDemo.java
-	Sound.java
+	Sound.java (Упражнение 2.1)
 	Echo.java
 	StrDemo.java
 	Cal.java
@@ -24,8 +24,8 @@
 	SideEffects.java
 	LtoD.java
 	CastDemo.java
-	LogicalOpTable.java
-	LogicalOpTableNum.java
+	LogicalOpTable.java (Упражнение 2.2)
+	LogicalOpTableNum.java (Упражнение 2.3)
 	PromDemo.java
 	UseCast.java
 	Dividers.java
@@ -37,7 +37,7 @@
 	Ladder.java
 	SwitchDemo.java
 	NoBreak.java
-	Help.java
+	Help.java (Упражнение 3.1)
 	SqrRoot.java
 	DecrFor.java
 	Comma.java
@@ -47,7 +47,20 @@
 	Empty3.java
 	ForVar.java
 	WhileDemo.java
-	
+	Power.java
+	DWDemo.java
+	Guess4.java
+	Help2.java (Упражнение 3.2)
+	BreakDemo.java
+	Break2.java
+	Break3.java
+	Calendar.java
+	Break4.java
+	Break5.java
+	Break6.java
+	ContDemo.java
+	Help3.java
+	FindFac.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
@@ -60,3 +73,7 @@
 		InchToMeterTable.java
 	Глава 2
 		Prime.java
+	Глава 3
+		CaseCh.java
+		Progress.java
+		Spaces.java
