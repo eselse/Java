@@ -32,9 +32,9 @@ class RetMeth {
 		range2 = sportscar.range();
 
 		System.out.println("Мини-фургон может перевезти " +
-			minivan.passengers + " на расстояние " + range1 + " миль");
+			minivan.passengers + " пассажиров на расстояние " + range1 + " миль");
 
 		System.out.println("Cпорткар может перевезти " +
-			sportscar.passengers + " на расстояние " + range2 + " миль");
+			sportscar.passengers + " пассажиров на расстояние " + range2 + " миль");
 	}
 }
