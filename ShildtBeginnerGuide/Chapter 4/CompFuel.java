@@ -1,19 +1,19 @@
 /*
-	Добавление параметризованного метода, в котором производится
+	Добавление параметризированного метода, в котором производится
 	расчет объема топлива, необходимого транспортному средству для
 	преодоления заданного расстояния.
 */
 class Vehicle {
-	int passengers;
-	int fuelcap;
-	int mpg;
+	int passengers; // количество пассажиров
+	int fuelcap; // емкость топливного бака
+	int mpg; // потребление топлива в милях на галлон.
 
 	// Определить дальность поездки транспортного средства
-	int range() {
+	int range () {
 		return mpg * fuelcap;
 	}
 
-	// Рассчитать объем топлива, необходимого транспортному
+	// Рассчитать объём топлива, необходимого транспортному
 	// средству для преодоления заданного расстояния
 	double fuelneeded(int miles) {
 		return (double) miles / mpg;
@@ -24,8 +24,7 @@ class CompFuel {
 	public static void main(String args[]) {
 		Vehicle minivan = new Vehicle();
 		Vehicle sportscar = new Vehicle();
-
-		double gallon;
+		double gallons;
 		int dist = 252;
 
 		// Присвоить значения полям в объекте minivan
@@ -40,13 +39,13 @@ class CompFuel {
 
 		gallons = minivan.fuelneeded(dist);
 
-		System.out.println("Для преодоления " + dist +
+		System.out.println("Для преодоления " + dist + 
 			" миль мини-фургону требуется " + 
 			gallons + " галлонов топлива");
 
 		gallons = sportscar.fuelneeded(dist);
 
-		System.out.println("Для преодоления " + dist +
+		System.out.println("Для преодоления " + dist + 
 			" миль спортивному автомобилю требуется " + 
 			gallons + " галлонов топлива");
 	}
