@@ -69,6 +69,7 @@
 	ParmDemo.java
 	IsFact.java
 	CompFuel.java
+	ConsDemo.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
