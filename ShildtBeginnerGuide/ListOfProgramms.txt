@@ -69,7 +69,14 @@
 	ParmDemo.java
 	IsFact.java
 	CompFuel.java
+	HelpClassDemo.java (Упражнение 4.1)
 	ConsDemo.java
+	ParmDemo.java
+	ParamConsDemo.java
+	VehConsDemo.java
+	Finalize.java (Упражнение 4.2)
+	DemoPwr.java
+	
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
