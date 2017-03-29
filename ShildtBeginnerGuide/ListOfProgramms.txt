@@ -76,6 +76,11 @@
 	VehConsDemo.java
 	Finalize.java (Упражнение 4.2)
 	DemoPwr.java
+Глава 5
+	ArrayDemo.java
+	MinMax.java
+	MinMax2.java
+	ArrayErr.java
 	
 Таблицы
 	Глава 1
