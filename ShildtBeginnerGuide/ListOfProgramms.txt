@@ -81,6 +81,7 @@
 	MinMax.java
 	MinMax2.java
 	ArrayErr.java
+	Bubble.java (Упражнение 5.1)
 	
 Таблицы
 	Глава 1
