@@ -85,17 +85,32 @@
 	TwoD.java
 	Ragged.java
 	Squares.java
+	AssignARef.java
 	LengthDemo.java
 	ACopy.java
 	QDemo.java
 	IntQDemo.java
 	DoubleQDemo.java
+	ForEach.java
+	FactForEach.java
+	ForEach2.java
+	Search.java
+	StringDemo.java
+	StringArrays.java
+	PushkinStringArrays.java
+	StringSwitch.java
+	CLDemo.java
+	Phone.java
+
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
 	Глава 2
 		Таблица 2.1.txt
 		Таблица 2.2.txt
+	Глава 5
+		StringTable.txt
+		Таблица 5.1.txt
 Вопросы и ответы
 	Глава 1
 		Moon.java
