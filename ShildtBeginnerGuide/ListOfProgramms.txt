@@ -96,12 +96,16 @@
 	ForEach2.java
 	Search.java
 	StringDemo.java
+	StrOps.java
 	StringArrays.java
 	PushkinStringArrays.java
 	StringSwitch.java
 	CLDemo.java
 	Phone.java
-
+	UpCase.java
+	ShowBits.java
+	LowCase.java
+	
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
