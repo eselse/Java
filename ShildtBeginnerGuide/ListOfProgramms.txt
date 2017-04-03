@@ -105,7 +105,10 @@
 	UpCase.java
 	ShowBits.java
 	LowCase.java
-	
+	Encode.java
+	NotDemo.java
+	ShiftDemo.java
+	ShowBitsDemo.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
