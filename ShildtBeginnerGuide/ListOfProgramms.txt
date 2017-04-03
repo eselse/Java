@@ -82,7 +82,14 @@
 	MinMax2.java
 	ArrayErr.java
 	Bubble.java (Упражнение 5.1)
-	
+	TwoD.java
+	Ragged.java
+	Squares.java
+	LengthDemo.java
+	ACopy.java
+	QDemo.java
+	IntQDemo.java
+	DoubleQDemo.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
