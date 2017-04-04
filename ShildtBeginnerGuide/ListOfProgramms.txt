@@ -1,137 +1,139 @@
 Глава 1
-	Example.java
-	Example2.java
-	Example3.java
-	GalToLit.java (Упражнение 1.1)
-	IfDemo.java
-	ForDemo.java
-	BlockDemo.java
-	GalToLitTable.java (Упражнение 1.2)
+    Example.java
+    Example2.java
+    Example3.java
+    GalToLit.java (Упражнение 1.1)
+    IfDemo.java
+    ForDemo.java
+    BlockDemo.java
+    GalToLitTable.java (Упражнение 1.2)
 Глава 2
-	Inches.java
-	Hypot.java
-	CharArithDemo.java
-	BoolDemo.java
-	Sound.java (Упражнение 2.1)
-	Echo.java
-	StrDemo.java
-	Cal.java
-	DynInit.java
-	ScopeDemo.java
-	VarInitDemo.java
-	ModDemo.java
-	SCops.java
-	SideEffects.java
-	LtoD.java
-	CastDemo.java
-	LogicalOpTable.java (Упражнение 2.2)
-	LogicalOpTableNum.java (Упражнение 2.3)
-	PromDemo.java
-	UseCast.java
-	Dividers.java
+    Inches.java
+    Hypot.java
+    CharArithDemo.java
+    BoolDemo.java
+    Sound.java (Упражнение 2.1)
+    Echo.java
+    StrDemo.java
+    Cal.java
+    DynInit.java
+    ScopeDemo.java
+    VarInitDemo.java
+    ModDemo.java
+    SCops.java
+    SideEffects.java
+    LtoD.java
+    CastDemo.java
+    LogicalOpTable.java (Упражнение 2.2)
+    LogicalOpTableNum.java (Упражнение 2.3)
+    PromDemo.java
+    UseCast.java
+    Dividers.java
 Глава 3
-	KbIn.java
-	Guess.java
-	Guess2.java
-	Guess3.java
-	Ladder.java
-	SwitchDemo.java
-	NoBreak.java
-	Help.java (Упражнение 3.1)
-	SqrRoot.java
-	DecrFor.java
-	Comma.java
-	ForTest.java
-	Empty.java
-	Empty2.java
-	Empty3.java
-	ForVar.java
-	WhileDemo.java
-	Power.java
-	DWDemo.java
-	Guess4.java
-	Help2.java (Упражнение 3.2)
-	BreakDemo.java
-	Break2.java
-	Break3.java
-	Calendar.java
-	Break4.java
-	Break5.java
-	Break6.java
-	ContDemo.java
-	Help3.java
-	FindFac.java
+    KbIn.java
+    Guess.java
+    Guess2.java
+    Guess3.java
+    Ladder.java
+    SwitchDemo.java
+    NoBreak.java
+    Help.java (Упражнение 3.1)
+    SqrRoot.java
+    DecrFor.java
+    Comma.java
+    ForTest.java
+    Empty.java
+    Empty2.java
+    Empty3.java
+    ForVar.java
+    WhileDemo.java
+    Power.java
+    DWDemo.java
+    Guess4.java
+    Help2.java (Упражнение 3.2)
+    BreakDemo.java
+    Break2.java
+    Break3.java
+    Calendar.java
+    Break4.java
+    Break5.java
+    Break6.java
+    ContDemo.java
+    Help3.java
+    FindFac.java
 Глава 4
-	VehicleDemo.java
-	TwoVehicles.java
-	AddMeth.java
-	RetMeth.java
-	ParmDemo.java
-	IsFact.java
-	CompFuel.java
-	HelpClassDemo.java (Упражнение 4.1)
-	ConsDemo.java
-	ParmDemo.java
-	ParamConsDemo.java
-	VehConsDemo.java
-	Finalize.java (Упражнение 4.2)
-	DemoPwr.java
+    VehicleDemo.java
+    TwoVehicles.java
+    AddMeth.java
+    RetMeth.java
+    ParmDemo.java
+    IsFact.java
+    CompFuel.java
+    HelpClassDemo.java (Упражнение 4.1)
+    ConsDemo.java
+    ParmDemo.java
+    ParamConsDemo.java
+    VehConsDemo.java
+    Finalize.java (Упражнение 4.2)
+    DemoPwr.java
 Глава 5
-	ArrayDemo.java
-	MinMax.java
-	MinMax2.java
-	ArrayErr.java
-	Bubble.java (Упражнение 5.1)
-	TwoD.java
-	Ragged.java
-	Squares.java
-	AssignARef.java
-	LengthDemo.java
-	ACopy.java
-	QDemo.java (Упражнение 5.2)
-	IntQDemo.java (Упражнение 5.3)
-	DoubleQDemo.java (Упражнение 5.4)
-	ForEach.java
-	FactForEach.java
-	ForEach2.java
-	Search.java
-	StringDemo.java
-	StrOps.java
-	StringArrays.java
-	PushkinStringArrays.java
-	StringSwitch.java
-	CLDemo.java
-	Phone.java
-	UpCase.java
-	ShowBits.java (Упражнение 5.5)
-	LowCase.java
-	Encode.java
-	NotDemo.java
-	ShiftDemo.java
-	ShowBitsDemo.java
-	NoZeroDiv.java
-	NoZeroDiv2.java
+    ArrayDemo.java
+    MinMax.java
+    MinMax2.java
+    ArrayErr.java
+    Bubble.java (Упражнение 5.1)
+    TwoD.java
+    Ragged.java
+    Squares.java
+    AssignARef.java
+    LengthDemo.java
+    ACopy.java
+    QDemo.java (Упражнение 5.2)
+    IntQDemo.java (Упражнение 5.3)
+    DoubleQDemo.java (Упражнение 5.4)
+    ForEach.java
+    FactForEach.java
+    ForEach2.java
+    Search.java
+    StringDemo.java
+    StrOps.java
+    StringArrays.java
+    PushkinStringArrays.java
+    StringSwitch.java
+    CLDemo.java
+    Phone.java
+    UpCase.java
+    ShowBits.java (Упражнение 5.5)
+    LowCase.java
+    Encode.java
+    NotDemo.java
+    ShiftDemo.java
+    ShowBitsDemo.java
+    NoZeroDiv.java
+    NoZeroDiv2.java
+Глава 6
+    AccessDemo.java
 Таблицы
-	Глава 1
-		Таблица 1.1.txt
-	Глава 2
-		Таблица 2.1.txt
-		Таблица 2.2.txt
-	Глава 5
-		StringTable.txt
-		Таблица 5.1.txt
+    Глава 1
+        Таблица 1.1.txt
+    Глава 2
+        Таблица 2.1.txt
+        Таблица 2.2.txt
+    Глава 5
+        StringTable.txt
+        Таблица 5.1.txt
 Вопросы и ответы
-	Глава 1
-		Moon.java
-		InchToMeterTable.java
-	Глава 2
-		Prime.java
-	Глава 3
-		CaseCh.java
-		Progress.java
-		Spaces.java
-	Глава 5
-		Avg.java
-		StrBubble.java
-		EncodeIm.java
-		MinMax3.java
+    Глава 1
+        Moon.java
+        InchToMeterTable.java
+    Глава 2
+        Prime.java
+    Глава 3
+        CaseCh.java
+        Progress.java
+        Spaces.java
+    Глава 5
+        Avg.java
+        StrBubble.java
+        EncodeIm.java
+        MinMax3.java
