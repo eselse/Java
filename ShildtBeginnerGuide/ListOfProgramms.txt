@@ -88,9 +88,9 @@
 	AssignARef.java
 	LengthDemo.java
 	ACopy.java
-	QDemo.java
-	IntQDemo.java
-	DoubleQDemo.java
+	QDemo.java (Упражнение 5.2)
+	IntQDemo.java (Упражнение 5.3)
+	DoubleQDemo.java (Упражнение 5.4)
 	ForEach.java
 	FactForEach.java
 	ForEach2.java
@@ -103,12 +103,14 @@
 	CLDemo.java
 	Phone.java
 	UpCase.java
-	ShowBits.java
+	ShowBits.java (Упражнение 5.5)
 	LowCase.java
 	Encode.java
 	NotDemo.java
 	ShiftDemo.java
 	ShowBitsDemo.java
+	NoZeroDiv.java
+	NoZeroDiv2.java
 Таблицы
 	Глава 1
 		Таблица 1.1.txt
@@ -128,3 +130,8 @@
 		CaseCh.java
 		Progress.java
 		Spaces.java
+	Глава 5
+		Avg.java
+		StrBubble.java
+		EncodeIm.java
+		MinMax3.java

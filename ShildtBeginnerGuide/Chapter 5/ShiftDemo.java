@@ -22,5 +22,7 @@ class ShiftDemo {
 			System.out.println();
 			val = val >> 1; // сдвинуть вправо
 		}
+
+		System.out.println((byte) (1 << 7));
 	}
 }
