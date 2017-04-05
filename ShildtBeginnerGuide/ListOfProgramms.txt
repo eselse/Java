@@ -157,3 +157,8 @@
         StrBubble.java
         EncodeIm.java
         MinMax3.java
+    Глава 6
+        StDemo.java
+        BWDemo.java
+        SumDemo2.java
+        
