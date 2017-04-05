@@ -124,6 +124,15 @@
     SumDemo.java
     QDemo2.java
     Recursion.java
+    SDemo.java
+    SDemo2.java
+    SDemo3.java
+    QSDemo.java (Упражнение 6.3)
+    NestedClassDemo.java
+    LocalClassDemo.java
+    VarArgs.java
+    VarArgs2.java
+    VarArgs3.java
 Таблицы
     Глава 1
         Таблица 1.1.txt
