@@ -1,4 +1,4 @@
-// Сравнение видов доступа public и private
+// Сравнение видов доступа public и private (демонстрация работы геттера и сеттера)
 class MyClass {
 	private int alpha; // закрытыый доступ
 	public int beta; // открытый доступ
