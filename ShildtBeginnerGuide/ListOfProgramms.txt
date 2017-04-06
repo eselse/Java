@@ -148,7 +148,7 @@
     Override.java
     Overload.java
     DynDispDemo.java
-    
+
 Таблицы
     Глава 1
         Таблица 1.1.txt
@@ -158,6 +158,8 @@
     Глава 5
         StringTable.txt
         Таблица 5.1.txt
+    Глава 6
+        ObjectMethods.txt
 Вопросы и ответы
     Глава 1
         Moon.java
