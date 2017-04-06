@@ -127,12 +127,22 @@
     SDemo.java
     SDemo2.java
     SDemo3.java
-    QSDemo.java (Упражнение 6.3)
+    QSDemo.java
     NestedClassDemo.java
     LocalClassDemo.java
     VarArgs.java
     VarArgs2.java
     VarArgs3.java
+Глава 7
+    Shapes.java
+    Shapes2.java
+    Shapes3.java
+    Shapes4.java
+    Shapes5.java
+    UseSuper.java
+    TruckDemo.java
+    Shapes6.java
+    
 Таблицы
     Глава 1
         Таблица 1.1.txt
@@ -161,4 +171,3 @@
         StDemo.java
         BWDemo.java
         SumDemo2.java
-        
