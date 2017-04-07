@@ -1,26 +1,10 @@
-// Простая программа, демонстрирующая применение пакетов
-package bookpack;
+// Данный класс принадлежит пакету bookpackext
+package bookpackext;
 
-class Book {
-	private String title;
-	private String author;
-	private int pubDate;
+import bookpack.*;
 
-	Book(String t, String a, int p) {
-		title = t;
-		author = a;
-		pubDate = p;
-	}
-
-	void show() {
-		System.out.println(title);
-		System.out.println(author);
-		System.out.println(pubDate);
-		System.out.println();
-	}
-}
-
-class BookDemo {
+// Использовать класс Book из пакета bookpack
+class UseBook {
 	public static void main(String args[]) {
 		Book books[] = new Book[5];
 

@@ -153,7 +153,9 @@
     FinalID.java
 Глава 8
     bookpack.BookDemo.java
-    
+    bookpack.Book.java
+    bookpackext.UseBook.java
+    bookpackext.ProtectDemo.java
 Таблицы
     Глава 1
         Таблица 1.1.txt
@@ -165,6 +167,9 @@
         Таблица 5.1.txt
     Глава 6
         ObjectMethods.txt
+    Глава 8
+        Таблица 8.1.txt
+        JavaAPI.txt
 Вопросы и ответы
     Глава 1
         Moon.java
