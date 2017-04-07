@@ -152,6 +152,7 @@
     AbsShape.java
     FinalID.java
 Глава 8
+    bookpack.BookDemo.java
     
 Таблицы
     Глава 1
