@@ -156,6 +156,10 @@
     bookpack.Book.java
     bookpackext.UseBook.java
     bookpackext.ProtectDemo.java
+    Series.java
+    ByTwos.java
+    SeriesDemo.java
+    SeriesDemo2.java
 Таблицы
     Глава 1
         Таблица 1.1.txt
