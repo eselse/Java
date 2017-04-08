@@ -158,8 +158,18 @@
     bookpackext.ProtectDemo.java
     Series.java
     ByTwos.java
+    ByThrees.java
     SeriesDemo.java
     SeriesDemo2.java
+    ICharQ.java
+    IQDemo.java
+    IConstD.java
+    IFExtend.java
+    MyIF.java
+    MyIFImp.java
+    MyIFImp2.java
+    DefaultMethodDemo.java
+
 Таблицы
     Глава 1
         Таблица 1.1.txt
