@@ -172,6 +172,12 @@
 Глава 9
     ExcDemo1.java
     ExcDemo2.java
+    NotHandled.java
+    ExcTypeMismatch.java
+    ExcDemo3.java
+    ExcDemo4.java
+    ExcDemo5.java
+    
 Таблицы
     Глава 1
         Таблица 1.1.txt
