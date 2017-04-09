@@ -162,14 +162,16 @@
     SeriesDemo.java
     SeriesDemo2.java
     ICharQ.java
-    IQDemo.java
+    IQDemo.java (Упражнение 8.1)
     IConstD.java
     IFExtend.java
     MyIF.java
     MyIFImp.java
     MyIFImp2.java
     DefaultMethodDemo.java
-
+Глава 9
+    ExcDemo1.java
+    ExcDemo2.java
 Таблицы
     Глава 1
         Таблица 1.1.txt
