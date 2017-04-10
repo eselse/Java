@@ -177,6 +177,10 @@
     ExcDemo3.java
     ExcDemo4.java
     ExcDemo5.java
+    ThrowDemo.java
+    RethrowDemo.java
+    UseThrowableMethods.java
+    FinallyDemo.java
     
 Таблицы
     Глава 1
@@ -192,6 +196,8 @@
     Глава 8
         Таблица 8.1.txt
         JavaAPI.txt
+    Глава 9
+        Таблица 9.1.txt
 Вопросы и ответы
     Глава 1
         Moon.java
