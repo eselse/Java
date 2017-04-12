@@ -1,55 +1,74 @@
-// Класс, реализующий стек для хранения символов
-class Stack {
-    private char stck[]; // массив для хранения элементов стека
-    private int tos;     // вершина стека
+// Исключение, возникающее при переполнении стека
+ class StackFullException extends Exception {
+     int size;
 
-    // Создать пустой стек заданного размера
-    Stack(int size) {
-        stck = new char[size]; // выделить память для стека
-        tos = 0;
-    }
+     StackFullException (int s) { size = s; }
 
-    // Создать один стек из другого стека
-    Stack(Stack ob) {
-        tos = ob.tos;
-        stck = new char[ob.stck.length];
+     public String toString() {
+         return "\nСтек заполнен. Максимальный размер стека: " + 
+         size;
+     }
+ }
 
-        // скопировать элементы
-        for(int i = 0; i < tos; i++)
-            stck[i] = ob.stck[i];
-    }
+ // Исключение, возникающее при обращении к пустому стеку
+ class StackEmptyException extends Exception {
+     public String toString() {
+         return "\nСтек пуст.";
+     }
+ }
 
-    // Создать стек с начальными значениями
-    Stack(char a[]) {
-        stck = new char[a.length];
+ // Класс, реализующий стек для хранения символов
+ class Stack {
+     private char stck[]; // массив для хранения элементов стека
+     private int tos; // вершина стека
 
-        for(int i = 0; i < a.length; i++) {
-            push(a[i]);
-        }
-    }
+      // Создать пустой стек заданного размера
+      Stack(int size) {
+          stck = new char[size]; // выделить память для стека
+          tos = 0;
+      }
 
-    // Поместить символы в стек
-    void push(char ch) {
-        if(tos == stck.length) {
-            System.out.println(" -- Стек заполнен");
-            return;
-        }
+      // Создать один стек на основе другого стека
+      Stack(Stack ob) {
+          stck = new char[ob.stck.length];
+          tos = ob.tos;
 
-        stck[tos] = ch;
-        tos++;
-    }
+          // скопировать элементы
+          for(int i = 0; i < tos; i++)
+              stck[i] = ob.stck[i];
+      }
 
-    // Извлечь символы из стека
-    char pop() {
-        if(tos == 0) {
-            System.out.println(" -- Стек пуст");
-            return (char) 0;
-        }
+      // Создать стек с начальными значениями
+      Stack(char a[]) {
+          stck = new char[a.length];
 
-        tos--;
-        return stck[tos];
-    }
-}
+          for(int i = 0; i < a.length; i++) {
+              try {
+                  push(a[i]);
+              }
+              catch (StackFullException exc) {
+                  System.out.println(exc);
+              }
+          }
+      }
+
+      // Поместить символы в стек
+      void push(char ch) throws StackFullException {
+          if(tos == stck.length)
+              throw new StackFullException(stck.length);
+
+          stck[tos] = ch;
+          tos++;
+      }
+
+      // Извлечь символы из стека
+      char pop() throws StackEmptyException {
+          if(tos == 0)
+              throw new StackEmptyException();
+          tos--;
+          return stck[tos];
+      }
+ }
 
 // Демонстрация использования класса Stack
 class StDemo {
@@ -65,7 +84,7 @@ class StDemo {
         char ch;
         int i;
 
-        // поместить символыв стек stk1
+        // поместить символы в стек 
         for(i = 0; i < 10; i++)
             stck1.push((char) ('A' + i));
 
