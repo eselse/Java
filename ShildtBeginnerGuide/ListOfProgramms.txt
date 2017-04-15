@@ -185,7 +185,8 @@
     ThrowsDemo.java
     MultiCatch.java
     CustomExceptDemo.java
-    
+    QExcDemo.java
+    ICharQ.java
 Таблицы
     Глава 1
         Таблица 1.1.txt
