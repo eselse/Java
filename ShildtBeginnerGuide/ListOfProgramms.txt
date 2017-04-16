@@ -187,6 +187,12 @@
     CustomExceptDemo.java
     QExcDemo.java
     ICharQ.java
+ Глава 10
+    ReadBytes.java
+    WriteDemo.java
+    ShowFile.java
+    ShowFile2.java
+    CopyFile.java
 Таблицы
     Глава 1
         Таблица 1.1.txt
@@ -203,6 +209,11 @@
         JavaAPI.txt
     Глава 9
         Таблица 9.1.txt
+    Глава 10
+        Таблица 10.1.txt
+        Таблица 10.2.txt
+        Таблица 10.3.txt
+        Таблица 10.4.txt
 Вопросы и ответы
     Глава 1
         Moon.java
