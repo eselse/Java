@@ -193,6 +193,13 @@
     ShowFile.java
     ShowFile2.java
     CopyFile.java
+    ReadBytes.java
+    WriteDemo.java
+    ShowFile3.java
+    CopyFile2.java
+    RWDemo.java
+    CompFiles.java (Упражнение 10.1)
+    RandomAccessDemo.java
 Таблицы
     Глава 1
         Таблица 1.1.txt
@@ -214,6 +221,10 @@
         Таблица 10.2.txt
         Таблица 10.3.txt
         Таблица 10.4.txt
+        Таблица 10.5.txt
+        Таблица 10.6.txt
+        Таблица 10.7.txt
+        Таблица 10.8.txt
 Вопросы и ответы
     Глава 1
         Moon.java
