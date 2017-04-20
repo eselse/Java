@@ -200,6 +200,11 @@
     RWDemo.java
     CompFiles.java (Упражнение 10.1)
     RandomAccessDemo.java
+    ReadChars.java
+    ReadLines.java
+    PrintWriterDemo.java
+    KtoD.java
+    
 Таблицы
     Глава 1
         Таблица 1.1.txt
