@@ -204,7 +204,9 @@
     ReadLines.java
     PrintWriterDemo.java
     KtoD.java
-    
+    DtoS.java
+    AvgNums.java
+    FileHelp.java (Упражнение 10.2)
 Таблицы
     Глава 1
         Таблица 1.1.txt
